@@ -1,10 +1,11 @@
-# Package Name
+# DoCGpt
 
-**Package Description**: This is a TypeScript library that provides functionality for [describe the purpose or functionality of the library].
+**Package Description**: This is a TypeScript library that provides functionality for using text generative for your data.
 
 ## Installation
 
 To install the package, use the following command:
+npm install
 
 
 ## Usage
