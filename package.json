@@ -1,7 +1,7 @@
 {
   "name": "docgpt",
-  "version": "1.0.0",
-  "description": "This is TS library",
+  "version": "0.1",
+  "description": "A LLM library to send your data as a document and you can query the document.",
   "main": "index.js",
   "scripts": {
     "test": "jest --config jestconfig.json",
@@ -14,7 +14,7 @@
     "version": "npm run format && git add -A src",
     "postversion": "git push && git push --tags"
   },
-  "keywords": [],
+  "keywords": ["GPT"],
   "author": "",
   "license": "ISC",
   "devDependencies": {
