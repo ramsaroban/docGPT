@@ -1,6 +1,6 @@
 {
   "name": "docgpt",
-  "version": "0.1",
+  "version": "",
   "description": "A LLM library to send your data as a document and you can query the document.",
   "main": "index.js",
   "scripts": {
